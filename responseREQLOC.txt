@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PRE>
+  <TRNXML Version="1.0.0" TimeZone="ET"/>
+  <DateTimeStamp>03/09/2020 01:22:54</DateTimeStamp>
+  <Sender>
+    <SenderID>ROUTES</SenderID>
+    <SenderName>Routes Rez World</SenderName>
+  </Sender>
+  <Recipient>
+    <RecipientID>ROUTES</RecipientID>
+  </Recipient>
+  <TradingPartner>
+    <TradingPartnerCode>ROUTES01</TradingPartnerCode>
+  </TradingPartner>
+  <Customer>
+    <CustomerNumber>1002</CustomerNumber>
+    <SID>fj3qf0xbwjmrueleorbzkrjr</SID>
+    <RemoteAddress>27.59.42.39</RemoteAddress>
+  </Customer>
+  <Message>
+    <MessageID>RESLOC</MessageID>
+    <MessageDescription>Location details</MessageDescription>
+  </Message>
+  <locationDetails>
+    <LocationName>MIAMI</LocationName>
+    <LocationCode>MIA</LocationCode>
+    <ContactNumber>13056146131</ContactNumber>
+    <Currency>USD</Currency>
+    <Address>3256 NW 24th Street Rd</Address>
+    <Latitude>25.795820</Latitude>
+    <Longitude>-80.248490</Longitude>
+    <EmailId>reservasryp@gmail.com</EmailId>
+    <timeings>
+      <Monday>
+        <from>06:00 AM</from>
+        <to>11:00 PM</to>
+      </Monday>
+      <Tuesday>
+        <from>06:00 AM</from>
+        <to>11:00 PM</to>
+      </Tuesday>
+      <Wednesday>
+        <from>06:00 AM</from>
+        <to>11:00 PM</to>
+      </Wednesday>
+      <Thursday>
+        <from>06:00 AM</from>
+        <to>11:00 PM</to>
+      </Thursday>
+      <Friday>
+        <from>06:00 AM</from>
+        <to>11:00 PM</to>
+      </Friday>
+      <Saturday>
+        <from>06:00 AM</from>
+        <to>11:00 PM</to>
+      </Saturday>
+      <Sunday>
+        <from>06:00 AM</from>
+        <to>11:00 PM</to>
+      </Sunday>
+    </timeings>
+  </locationDetails>
+  <locationDetails>
+    <LocationName>RICHMOND</LocationName>
+    <LocationCode>RIC</LocationCode>
+    <ContactNumber>123456789</ContactNumber>
+    <Currency>USD</Currency>
+    <Address>5203 Williamsburg Rd</Address>
+    <Latitude>37.5031652</Latitude>
+    <Longitude>-77.4386081</Longitude>
+    <EmailId>ric@test.com</EmailId>
+    <timeings>
+      <Monday>
+        <from>12:00 AM</from>
+        <to>11:59 PM</to>
+      </Monday>
+      <Tuesday>
+        <from>12:00 AM</from>
+        <to>11:59 PM</to>
+      </Tuesday>
+      <Wednesday>
+        <from>12:00 AM</from>
+        <to>11:59 PM</to>
+      </Wednesday>
+      <Thursday>
+        <from>12:00 AM</from>
+        <to>11:59 PM</to>
+      </Thursday>
+      <Friday>
+        <from>12:00 AM</from>
+        <to>11:59 PM</to>
+      </Friday>
+      <Saturday>
+        <from>12:00 AM</from>
+        <to>11:59 PM</to>
+      </Saturday>
+      <Sunday>
+        <from>12:00 AM</from>
+        <to>11:59 PM</to>
+      </Sunday>
+    </timeings>
+  </locationDetails>
+</PRE>

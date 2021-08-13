@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PRE>
+  <TRNXML Version="1.0.0" TimeZone="ET"/>
+  <DateTimeStamp>01/17/2019 11:11:33</DateTimeStamp>
+  <Sender>
+    <SenderID>ROUTES</SenderID>
+    <SenderName>Routes Rez World</SenderName>
+  </Sender>
+  <Recipient>
+    <RecipientID>ROUTES</RecipientID>
+    <RecipientName/>
+  </Recipient>
+  <TradingPartner>
+    <TradingPartnerCode>OLR104</TradingPartnerCode>
+    <TradingPartnerName/>
+  </TradingPartner>
+  <Customer>
+    <CustomerNumber>1004</CustomerNumber>
+    <CustomerName/>
+  </Customer>
+  <Message>
+    <MessageID>RSPBIL</MessageID>
+    <MessageDescription>Respond With Charges</MessageDescription>
+  </Message>
+  <Payload>
+    <RateCompanyID>RCR</RateCompanyID>
+    <RateCompanyName>Routes Car Rentals</RateCompanyName>
+    <MinimumAge>21</MinimumAge>
+    <MaximumAge>72</MaximumAge>
+    <MileageUnit>KM</MileageUnit>
+    <RatePlan>WEEKLY</RatePlan>
+    <SimilarText>Toyota Yaris</SimilarText>
+    <CurrencyCode>CAD</CurrencyCode>
+    <TotalPricing>
+      <RateCharge>1210.00</RateCharge>
+      <RatePlusLate>1210.00</RatePlusLate>
+      <TotalTaxes>0.00</TotalTaxes>
+      <TotalExtras>0.00</TotalExtras>
+      <TotalFreeMiles/>
+      <PerMileAmount>0.00</PerMileAmount>
+      <LateCharge>0.00</LateCharge>
+      <Surcharge>0.0000</Surcharge>
+      <DailyExtra>
+        <ExtraCode>BORDER CROSSING FEE</ExtraCode>
+        <ExtraDesc>BORDER CROSSING FEE</ExtraDesc>
+        <ExtraAmount>10.99</ExtraAmount>
+        <ExtraAutoApply>TRUE</ExtraAutoApply>
+        <ExtraOnRequest>TRUE</ExtraOnRequest>
+      </DailyExtra>
+      <DailyExtra>
+        <ExtraCode>ADDITIONAL DRIVER</ExtraCode>
+        <ExtraDesc>ADDITIONAL DRIVER</ExtraDesc>
+        <ExtraAmount>4.99</ExtraAmount>
+        <ExtraAutoApply>TRUE</ExtraAutoApply>
+        <ExtraOnRequest>TRUE</ExtraOnRequest>
+      </DailyExtra>
+      <DailyExtra>
+        <ExtraCode>GPS</ExtraCode>
+        <ExtraDesc>GPS</ExtraDesc>
+        <ExtraAmount>6.99</ExtraAmount>
+        <ExtraAutoApply>TRUE</ExtraAutoApply>
+        <ExtraOnRequest>TRUE</ExtraOnRequest>
+      </DailyExtra>
+      <DailyExtra>
+        <ExtraCode>CHILD CAR SEAT</ExtraCode>
+        <ExtraDesc>CHILD CAR SEAT</ExtraDesc>
+        <ExtraAmount>4.99</ExtraAmount>
+        <ExtraAutoApply>TRUE</ExtraAutoApply>
+        <ExtraOnRequest>TRUE</ExtraOnRequest>
+      </DailyExtra>
+      <DailyExtra>
+        <ExtraCode>Collision Damge Waiver - $2000 Ded.</ExtraCode>
+        <ExtraDesc>Collision Damge Waiver - $2000 Ded.</ExtraDesc>
+        <ExtraAmount>15.99</ExtraAmount>
+        <ExtraAutoApply>TRUE</ExtraAutoApply>
+        <ExtraOnRequest>TRUE</ExtraOnRequest>
+      </DailyExtra>
+      <DailyExtra>
+        <ExtraCode>Collision Damage Waiver - $1000 Ded.</ExtraCode>
+        <ExtraDesc>Collision Damage Waiver - $1000 Ded.</ExtraDesc>
+        <ExtraAmount>19.99</ExtraAmount>
+        <ExtraAutoApply>TRUE</ExtraAutoApply>
+        <ExtraOnRequest>TRUE</ExtraOnRequest>
+      </DailyExtra>
+      <DailyExtra>
+        <ExtraCode>Under Age Fee</ExtraCode>
+        <ExtraDesc>Under Age Fee</ExtraDesc>
+        <ExtraAmount>7.99</ExtraAmount>
+        <ExtraAutoApply>TRUE</ExtraAutoApply>
+        <ExtraOnRequest>TRUE</ExtraOnRequest>
+      </DailyExtra>
+      <DailyExtra>
+        <ExtraCode>ROAD SIDE ASSISTANCE</ExtraCode>
+        <ExtraDesc>ROAD SIDE ASSISTANCE</ExtraDesc>
+        <ExtraAmount>4.99</ExtraAmount>
+        <ExtraAutoApply>TRUE</ExtraAutoApply>
+        <ExtraOnRequest>TRUE</ExtraOnRequest>
+      </DailyExtra>
+      <DailyExtra>
+        <ExtraCode>DELUXE 1000 DED ,PAI,THEFT PROTECTION</ExtraCode>
+        <ExtraDesc>DELUXE 1000 DED ,PAI,THEFT PROTECTION</ExtraDesc>
+        <ExtraAmount>24.99</ExtraAmount>
+        <ExtraAutoApply>TRUE</ExtraAutoApply>
+        <ExtraOnRequest>TRUE</ExtraOnRequest>
+      </DailyExtra>
+      <Taxes>
+        <TaxAmount>0.00</TaxAmount>
+        <TaxRate/>
+        <TaxDesc>G.S.T</TaxDesc>
+        <TaxCharge>0.00</TaxCharge>
+        <TaxType>PERCENT</TaxType>
+        <Tax1Amount>0.00</Tax1Amount>
+        <Tax1Rate/>
+        <Tax1Desc>P.S.T</Tax1Desc>
+        <Tax1Charge>0.00</Tax1Charge>
+        <Tax1Type>PERCENT</Tax1Type>
+        <Tax2Amount>0.00</Tax2Amount>
+        <Tax2Rate>13</Tax2Rate>
+        <Tax2Desc>H.S.T</Tax2Desc>
+        <Tax2Charge>0.00</Tax2Charge>
+        <Tax2Type>PERCENT</Tax2Type>
+      </Taxes>
+      <TotalCharges>1325.16</TotalCharges>
+      <RatePeriod>
+        <Weeks>1</Weeks>
+        <AmtPerWeek>110.00</AmtPerWeek>
+      </RatePeriod>
+    </TotalPricing>
+  </Payload>
+</PRE>

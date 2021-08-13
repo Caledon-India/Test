@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PRE>
+  <TRNXML Version="1.0.0" TimeZone="ET"/>
+  <DateTimeStamp>02/19/2021 05:22:47</DateTimeStamp>
+  <Sender>
+    <SenderID>ROUTES</SenderID>
+    <SenderName>Routes Rez World</SenderName>
+  </Sender>
+  <Recipient>
+    <RecipientID>ROUTES</RecipientID>
+  </Recipient>
+  <TradingPartner>
+    <TradingPartnerCode>AMD</TradingPartnerCode>
+  </TradingPartner>
+  <Customer>
+    <CustomerNumber>1036</CustomerNumber>
+    <SID>fj3qf0xbwjmrueleorbzkrjr</SID>
+    <RemoteAddress>27.59.42.39</RemoteAddress>
+  </Customer>
+  <Message>
+    <MessageID>RESBRK</MessageID>
+    <MessageDescription>Respond Rate Breaks</MessageDescription>
+  </Message>
+  <Payload>
+    <RateCompanyID>RCR</RateCompanyID>
+    <RateCompanyName>Routes Car Rentals</RateCompanyName>
+    <CarClassDescription>Toyota Yaris</CarClassDescription>
+    <CurrencyCode>USD</CurrencyCode>
+    <CarCode>ECAR</CarCode>
+    <DailyBreakup>
+      <TaxAmount>17.70</TaxAmount>
+      <RatePerDay>2.95</RatePerDay>
+      <TaxRate>2.95</TaxRate>
+      <TaxDesc>Energy Recovery fees(ERF)</TaxDesc>
+      <OtaCode>85</OtaCode>
+      <Category>VCP</Category>
+      <TaxCharge>0.00</TaxCharge>
+      <TaxType>Amount</TaxType>
+    </DailyBreakup>
+    <DailyBreakup>
+      <TaxAmount>17.70</TaxAmount>
+      <RatePerDay>2.95</RatePerDay>
+      <TaxRate>2.95</TaxRate>
+      <TaxDesc>Vehicle Licensing Fee(VLF)</TaxDesc>
+      <OtaCode>33</OtaCode>
+      <Category>VCP</Category>
+      <TaxCharge>0.00</TaxCharge>
+      <TaxType>Amount</TaxType>
+    </DailyBreakup>
+    <DailyBreakup>
+      <TaxAmount>14.91</TaxAmount>
+      <RatePerDay>2.49</RatePerDay>
+      <TaxRate>13.00</TaxRate>
+      <TaxDesc>Customer Facility Fee</TaxDesc>
+      <OtaCode>71</OtaCode>
+      <Category>VCP</Category>
+      <TaxCharge>0.00</TaxCharge>
+      <TaxType>PERCENT</TaxType>
+    </DailyBreakup>
+    <DailyBreakup>
+      <TaxAmount>13.76</TaxAmount>
+      <RatePerDay>2.29</RatePerDay>
+      <TaxRate>11.99</TaxRate>
+      <TaxDesc>Airport Fee</TaxDesc>
+      <OtaCode>49</OtaCode>
+      <Category>VCP</Category>
+      <TaxCharge>0.00</TaxCharge>
+      <TaxType>PERCENT</TaxType>
+    </DailyBreakup>
+    <DailyBreakup>
+      <TaxAmount>1.15</TaxAmount>
+      <RatePerDay>0.19</RatePerDay>
+      <TaxRate>1.00</TaxRate>
+      <TaxDesc>MUNICIPAL TAX</TaxDesc>
+      <OtaCode>7</OtaCode>
+      <Category>VCP</Category>
+      <TaxCharge>0.00</TaxCharge>
+      <TaxType>PERCENT</TaxType>
+    </DailyBreakup>
+    <Taxes>
+      <TaxAmount>12.05</TaxAmount>
+      <RatePerDay>2.01</RatePerDay>
+      <TaxRate>10.50</TaxRate>
+      <TaxDesc>G.S.T</TaxDesc>
+      <OtaCode>75</OtaCode>
+      <Category>VCP</Category>
+      <TaxCharge>0.00</TaxCharge>
+      <TaxType>PERCENT</TaxType>
+      <Tax1Amount>0.00</Tax1Amount>
+      <Rate1PerDay>0.00</Rate1PerDay>
+      <Tax1Rate/>
+      <Tax1Desc>P.S.T</Tax1Desc>
+      <Tax1Charge>0.00</Tax1Charge>
+      <Tax1Type>PERCENT</Tax1Type>
+      <Tax2Amount>0.00</Tax2Amount>
+      <Rate2PerDay>0.00</Rate2PerDay>
+      <Tax2Rate/>
+      <Tax2Desc>H.S.T</Tax2Desc>
+      <Tax2Charge>0.00</Tax2Charge>
+      <Tax2Type>PERCENT</Tax2Type>
+    </Taxes>
+    <BasicRate>114.73</BasicRate>
+    <RatePerDay>19.12</RatePerDay>
+    <TotalTaxes>77.27</TotalTaxes>
+    <TotalRate>192.00</TotalRate>
+    <RatePlan>DAILY</RatePlan>
+  </Payload>
+</PRE>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PRE>
+  <TRNXML Version="1.0.0" TimeZone="ET"/>
+  <DateTimeStamp>02/12/2019 04:53:58</DateTimeStamp>
+  <Sender>
+    <SenderID>ROUTES</SenderID>
+    <SenderName>Routes Rez World</SenderName>
+  </Sender>
+  <Recipient>
+    <RecipientID>ROUTES</RecipientID>
+    <RecipientName/>
+  </Recipient>
+  <TradingPartner>
+    <TradingPartnerCode>OTA01</TradingPartnerCode>
+    <TradingPartnerName/>
+  </TradingPartner>
+  <Customer>
+    <CustomerNumber>12345</CustomerNumber>
+    <CustomerName/>
+  </Customer>
+  <Message>
+    <MessageID>RSPCLS</MessageID>
+    <MessageDescription>Respond With Class</MessageDescription>
+  </Message>
+  <Payload>
+    <SimilarText/>
+    <ClassCode/>
+  </Payload>
+</PRE>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PRE>
+  <TRNXML Version="1.0.0" TimeZone="ET"/>
+  <DateTimeStamp>02/19/2021 05:22:55</DateTimeStamp>
+  <Sender>
+    <SenderID>ROUTES</SenderID>
+  </Sender>
+  <Recipient>
+    <RecipientID>TRN</RecipientID>
+  </Recipient>
+  <TradingPartner>
+    <TradingPartnerCode>TP103</TradingPartnerCode>
+  </TradingPartner>
+  <Customer>
+    <CustomerNumber>TP</CustomerNumber>
+    <Passcode>tp@2019</Passcode>
+  </Customer>
+  <Message>
+    <MessageID>REQRAT</MessageID>
+    <MessageDesc>Request Rates</MessageDesc>
+  </Message>
+  <Payload>
+    <PickupDateTime>02192021 12:30 am</PickupDateTime>
+    <ReturnDateTime>02262021 12:00 am</ReturnDateTime>
+    <RentalLocationID>FLL</RentalLocationID>
+    <ReturnLocationID>FLL</ReturnLocationID>
+    <RateSource>Domestic</RateSource>
+    <DiscountCode/>
+  </Payload>
+</PRE>

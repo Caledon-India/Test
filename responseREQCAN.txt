@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PRE>
+  <TRNXML Version="1.0.0" TimeZone="ET"/>
+  <DateTimeStamp>02/18/2021 10:20:20</DateTimeStamp>
+  <Sender>
+    <SenderID>ROUTES</SenderID>
+    <SenderName>Routes Rez World</SenderName>
+  </Sender>
+  <Recipient>
+    <RecipientID>ROUTES</RecipientID>
+    <RecipientName/>
+  </Recipient>
+  <TradingPartner>
+    <TradingPartnerCode>EXE100</TradingPartnerCode>
+    <TradingPartnerName/>
+  </TradingPartner>
+  <Customer>
+    <CustomerNumber>1010</CustomerNumber>
+    <CustomerName/>
+  </Customer>
+  <Message>
+    <MessageID>RSPCAN</MessageID>
+    <MessageDescription>Response Booking Cancellation</MessageDescription>
+  </Message>
+  <Cancel>
+    <PNR>15367995-1</PNR>
+    <ConfirmNum>EXPDOSvd00024644</ConfirmNum>
+    <CancelText>Booking Cancelled Successfully</CancelText>
+  </Cancel>
+</PRE>
